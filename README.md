@@ -2,7 +2,7 @@
 
 A feature-rich Telegram bot for playing music in voice chats.
 
-![Cute Girls](https://example.com/cute_girls.jpg)
+![Cute Girls]([https://example.com/cute_girls.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbLMPBNvc6s3aj2HEmYDIbBZpsYRcICZ6kA&usqp=CAU))
 
 ## Deploy to Heroku
 
